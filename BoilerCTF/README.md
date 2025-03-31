@@ -1,5 +1,8 @@
 # 🚩 BoilerCTF Writeup
 
+## 🔗 Live Link
+  [Notion Pages](https://niklaus-rupail.notion.site/BoilerCTF-4732d2ee67034ce3bdb7c1f350a2050a)
+
 ## 🏴 Overview
 - **Platform:** TryHackMe
 - **Difficulty:** Medium
